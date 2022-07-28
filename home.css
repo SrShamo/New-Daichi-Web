@@ -1,0 +1,117 @@
+body {
+    background-color: rgb(15, 11, 34);
+    margin: 0;
+}
+
+
+.container {
+    width: 94%;
+	margin: 0 auto;
+}
+
+.headerPrincipal .container {
+    background-color: rgba(5, 5, 5, 0.521);
+	padding: -10px 0;
+    width: 100%;
+}
+
+.headerPrincipal .container .tituloHeader{
+    transition: 0.5s;
+    color: #fff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 45px;
+    font-size: 45px;
+}
+
+.headerPrincipal .container .tituloHeader:hover{
+    font-size: 55px;
+}
+
+.buttonsHeader .buttonsHeader-nav {
+    transition: 0.5s;
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0;
+    font-size: 30px;
+    margin-bottom: 75px;
+    width: 150px;
+}
+
+.buttonsHeader .buttonsHeader-nav:hover {
+    color: rgb(34, 7, 85);
+    border-color: rgb(34, 7, 85);
+}
+.imgfondo .laimg {
+    z-index: -1;
+    filter:opacity(0.7);
+    width: 650px;
+    height: 550px;
+}
+
+
+
+.centro .container1 .title {
+    width: 550px;
+    margin-top: 150px;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+}
+
+.centro .container1 .parrafe1 {
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.buttonsCentro {
+    width: 350px;
+}
+
+.buttonsCentro .buttondelcentro{
+    transition: 0.5s;
+    width: 120px;
+    height: 35px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.buttonsCentro .buttondelcentro:hover {
+    opacity: 0.5;
+}
+
+.functions .container1 {
+    background-color: rgba(5, 5, 5, 0.521);
+    height: 500px;
+}
+
+.functions .container1 .title2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+
+.img-box {
+    height: 325px;
+    width: 325px;
+    transition: 0.5s;
+    opacity: 0.5;
+}
+
+.img-box:hover {
+    opacity: 1.5;
+}
+
+.img-box2 {
+    height: 325px;
+    width: 525px;
+    transition: 0.5s;
+    opacity: 0.5;
+}
+
+.img-box2:hover {
+    opacity: 1.5;
+}

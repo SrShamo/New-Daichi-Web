@@ -1,0 +1,62 @@
+.headerPrincipal .container {
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-between;
+}
+
+.buttonsHeader .buttonsHeader-nav {
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+    justify-content: center;
+    position: relative;
+    top: 35px;
+}
+
+.buttonsHeader {
+    display: flex;
+}
+
+
+.imgfondo .laimg {
+    display: flex;
+    position: relative;
+    left: 750px;
+    bottom: 250px;
+}
+
+.centro .container1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 55px;
+}
+
+.buttonsCentro {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 95px;
+}
+
+.functions .container1 {
+    position: relative;
+    bottom: 273px;
+}
+
+.functions .container1 .title2 {
+   display: flex;
+   position: relative;
+   top: 20px;
+   justify-content: center;
+}
+
+.functions .container1 .box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: 35px;
+    margin-left: 15px;
+}
